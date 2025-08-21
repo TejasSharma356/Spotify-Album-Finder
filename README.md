@@ -38,25 +38,4 @@ https://tejassharma356.github.io/spotify-album-finder/
 
 ---
 
-## 📦 Installation  
 
-### 1️⃣ Clone the repository  
-```bash
-git clone https://github.com/your-username/spotify-album-finder.git
-cd spotify-album-finder
-
----
-
-## 🛠️ Tech Stack  
-- **React**  
-- **React-Bootstrap**  
-- **Spotify Web API**  
-
----
-
-## 📦 Installation  
-
-### 1️⃣ Clone the repository  
-```bash
-git clone https://github.com/your-username/spotify-album-finder.git
-cd spotify-album-finder
